@@ -1,0 +1,27 @@
+VIOLATION REPORT — @agahi_kont
+
+The subject account shows a pattern of behavior inconsistent with platform rules.
+
+Violation: Phishing. Automated fingerprinting links this handle to a known abuse cluster.
+Operator directive: Dear Telegram DMCA Team, I am writing to report a Telegram channel that is actively engaged in serious cybercrime activities, including hacking, data theft, and cyber attacks against multiple countries. The channel is @agahi_kont (رسانه کُنت). I have documented clear evidence of multiple violations.
+
+
+Ref:
+→ https://t.me/agahi_kont/3486
+→ https://t.me/agahi_kont/4231
+→ https://t.me/agahi_kont/3904
+→ https://t.me/agahi_kont/3155
+→ https://t.me/agahi_kont/3453
+→ https://t.me/agahi_kont/2804
+→ https://t.me/agahi_kont/2758
+→ https://t.me/agahi_kont/166
+→ https://t.me/agahi_kont/2822
+→ https://t.me/agahi_kont/3766
+→ https://t.me/agahi_kont/3484
+→ https://t.me/agahi_kont/2566
+→ https://t.me/agahi_kont/2567
+→ https://t.me/agahi_kont/2607
+→ https://t.me/agahi_kont/2603
+→ https://osint.vault/ldw229tq
+
+Additional evidence available upon request.
